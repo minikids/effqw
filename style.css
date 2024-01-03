@@ -1,0 +1,19 @@
+canvas {
+    border:1px solid black;
+}
+#snapshot {
+    
+background-color: lightgreen;
+width: 120px;
+height: 50px;
+color: white;
+border-radius: 10px;
+}
+#p5 {
+    
+background-color: rgb(63, 112, 204);
+color: white;
+width: 180;
+height: 60px;
+border-radius: 10px;
+}
